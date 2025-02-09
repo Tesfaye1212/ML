@@ -100,6 +100,6 @@ Once the server is running, open your browser and go to:
 
 ---
 
-### 🎉 **Enjoy Predicting Lung Cancer with AI!** 🚀
+### 🎉 **Enjoy Predicting Lung Cancer!** 🚀
 
 
